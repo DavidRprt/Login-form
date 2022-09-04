@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
     --red: #853450;
     --gray: #444761;
 }
@@ -97,13 +97,13 @@ button{
     background-color: black;
     color: white;
     border: 2px solid var(--red);
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 10px 40px;
     margin: 40px 0;
     margin-top: 40px;
     margin-left: 20px;
     transition: 0.5s;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 button:hover{
